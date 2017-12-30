@@ -1,0 +1,3 @@
+注意：1.项目在本地Tomcat中运行时，文件上传路径在Tomcat目录下
+	2.项目在Eclipse中运行时，文件上传路径如下：
+D:\win7-x64\Java\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp1\wtpwebapps\FileUpload\upload
